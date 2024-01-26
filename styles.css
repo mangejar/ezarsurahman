@@ -78,3 +78,7 @@ ul > li {
 footer {
     background-color: #031859;
 }
+
+.breaker {
+    height: 100px;
+}
