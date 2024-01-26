@@ -1,0 +1,80 @@
+.poppins {
+    font-family: Poppins,Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+.semi {
+    font-weight: 500 !important;
+}
+
+.bebas {
+    font-family: "Bebas Neue";
+}
+
+.home > .bebas {
+    font-size: 5rem;
+    
+}
+
+.white {
+    color: white !important;
+}
+
+#ezar {
+    color: 
+    #173f73;
+}
+
+#nav {
+    background-color: #a9c6d9;
+
+}
+
+.nav {
+    margin: 0;
+}
+
+
+
+.home {
+    background-color: #6387a6 !important;
+    padding: 100px 0px;
+    
+}
+
+
+.about {
+    font-size: 5rem;
+    color: #173F73 !important;
+}
+
+.card-header {
+    background-color: #031859;
+}
+
+.gray-bg {
+    background-color: #ececec;
+}
+
+.language {
+    display: inline-block;
+    width: 50%;
+    height: auto;
+    padding: 5px;
+}
+
+.second {
+    height: 100px !important;
+}
+
+ul > li {
+    font-size: 1.5rem;
+}
+
+.card-header {
+    font-size: 2rem;
+}
+
+footer {
+    background-color: #031859;
+}
