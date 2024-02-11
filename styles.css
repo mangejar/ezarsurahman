@@ -34,7 +34,21 @@
     margin: 0;
 }
 
+@media (max-width:600px) {
+    .nav,.nav1q {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
 
+    .nav a {
+        font-size: 1.25rem;
+    }
+
+    .sem {
+        align-self:flex-start;
+    }
+}
 
 .home {
     background-color: #6387a6 !important;
